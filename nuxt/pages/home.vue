@@ -1,11 +1,12 @@
 <script>
-import Header from "./../components/Header.vue"
-</script>
 
+</script>
 <template>
   <div>
     <h1>Hello from Pages Home</h1>
-	<Header/>
+	<section>3423423434234234342342343423423434234234342342343423423434234234342342343423423434234234342342343423423434234234342342343423423434234234342342343423423434234234342342343423423434234234</section>
+	<section id="id">asdasdasd</section>
+
 	<NuxtLink to="/">Back</NuxtLink>
   </div>
 </template>
