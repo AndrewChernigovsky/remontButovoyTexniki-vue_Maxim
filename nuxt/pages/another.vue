@@ -1,5 +1,3 @@
 <template>
-  <div>
-    <h1>Hello from Pages Another</h1>
-  </div>
+  <h1>Another Page</h1>
 </template>

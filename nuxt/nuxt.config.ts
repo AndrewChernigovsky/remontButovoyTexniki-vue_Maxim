@@ -7,4 +7,11 @@ export default defineNuxtConfig({
 			scrollBehaviorType: 'smooth',
 		},
 	},
+	css: ['~/assets/css/styles.css'],
+	postcss: {
+		plugins: {
+			tailwindcss: {},
+			autoprefixer: {},
+		},
+	},
 });
